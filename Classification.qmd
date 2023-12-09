@@ -1,0 +1,9 @@
+---
+title: "Anomaly/outlier detection"
+author: "Harlow Malloc"
+date: "2023-12-04"
+---
+
+```{python}
+
+```
