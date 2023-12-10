@@ -1,0 +1,12 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/Blog_1/Probability theory and Random Variables.html",
+      "/posts/Blog_2/Classification.html",
+      "/posts/Blog_3/Linear and nonlinear regression.html",
+      "/posts/Blog_4/Clustering.html",
+      "/posts/Blog_5/Anomaly detection.html"
+    ]
+  }
+]
